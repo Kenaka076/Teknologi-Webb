@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, 'Times New Roman', Times, serif;
+    text-align: flex;
+    margin: 20px;
+    background-color: rgba(10, 156, 156, 0.644);
+
+h1 {
+    color: #ffffff;
+}
+
+h2{
+    color: rgb(255, 196, 0)
+}
+
+h3{
+    color: rgb(255, 196, 0)
+}
+label, input {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #75b8ff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #168100;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #75b8ff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 7px; 
+}
+
+button:hover {
+    background-color: #75b8ff;
+}
+
+
+#hasilPerhitungan {
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+}
